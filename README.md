@@ -1,9 +1,10 @@
 #ISIS1225 - Estructura de un proyecto
 
-Estudiantes:
+
+##Estudiantes:
     Daniel Andrés Bernal Cáceres 202020706 -----> Estudiante 1
     Juan Martín Santos Ayala 202012610     -----> Estudiante 2
-Correos:
+##Correos:
     da.bernalc1@uniandes.edu.co
     j.santosa@uniandes.edu.co
 
