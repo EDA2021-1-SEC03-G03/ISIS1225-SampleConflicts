@@ -1,5 +1,13 @@
 #ISIS1225 - Estructura de un proyecto
 
+Estudiantes:
+    Daniel Andrés Bernal Cáceres 202020706 -----> Estudiante 1
+    Juan Martín Santos Ayala 202012610     -----> Estudiante 2
+Correos:
+    da.bernalc1@uniandes.edu.co
+    j.santosa@uniandes.edu.co
+
+
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
 Esta organización es una sugerencia que puede ser adaptada a  las necesidades y gustos de cada persona.
